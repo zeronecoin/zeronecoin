@@ -1,0 +1,9 @@
+Building Zeronecoin
+
+See doc/readme-qt.rst for instructions on building Zeronecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Zeronecoin.
+
+See doc/build-*.txt for instructions on building zeronecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Zeronecoin.
